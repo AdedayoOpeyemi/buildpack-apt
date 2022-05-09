@@ -1,7 +1,4 @@
 #weasyprint install
-python3
-python-pkg-resources
-python-setuptools
 python3-pip
 libpango-1.0-0
 libharfbuzz0b
