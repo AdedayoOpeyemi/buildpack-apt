@@ -1,6 +1,6 @@
 #weasyprint install
-python3
 python-setuptools
+python3
 python3-pkg-resources
 python-pip-whl
 python3-pip
