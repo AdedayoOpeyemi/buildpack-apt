@@ -1,5 +1,6 @@
 #weasyprint install
 python3
+python-setuptools
 python-pip-whl
 python3-pip
 python3-cffi
