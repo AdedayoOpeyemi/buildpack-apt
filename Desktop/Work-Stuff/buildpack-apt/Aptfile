@@ -1,5 +1,5 @@
 #weasyprint install
-python3-pip
+python2.7-pip
 libpango-1.0-0
 libharfbuzz0b
 libpangoft2-1.0-0
