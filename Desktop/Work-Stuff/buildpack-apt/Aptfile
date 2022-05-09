@@ -1,2 +1,3 @@
 #weasyprint install
+python3-pkg-resources
 weasyprint
