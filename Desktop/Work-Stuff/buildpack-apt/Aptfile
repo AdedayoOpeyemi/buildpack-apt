@@ -1,4 +1,5 @@
 #weasyprint install
+setuptools
 python3-pip
 python3-cffi
 python3-brotli
