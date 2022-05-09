@@ -1,5 +1,5 @@
 #weasyprint install
-python-setuptools
+python34-setuptools
 python3-pip
 libpango-1.0-0
 libharfbuzz0b
