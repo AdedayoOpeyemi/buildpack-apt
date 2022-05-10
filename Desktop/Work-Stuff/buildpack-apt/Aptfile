@@ -1,5 +1,5 @@
-#weasyprint install
-python-setuptools
+#weasyprint-install
+python34-setuptools
 python3
 python-pkg-resources
 python-pip-whl
